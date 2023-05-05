@@ -15,9 +15,7 @@
 </p>
 </br>
 </br>
-</br>
-</br>
-<p align="left">
+<p align="right">
   <a a href="linkedin.com/in/jorge-garcía-9ab602225" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jorge" height="30" width="40" />
   </a>
