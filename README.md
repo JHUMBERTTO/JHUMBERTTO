@@ -1,7 +1,4 @@
-<h3 align="right">Social Media:</h3>
-<p align="right">
-<a href="https://www.instagram.com/j.humbertto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aguilarr.ans" height="30" width="40" /></a>
-</p>
+
 <h1 align="center">Jorge Humberto</h1>
 <h3 align="center">A Software Development Student -17yrs old-</h3>
 
