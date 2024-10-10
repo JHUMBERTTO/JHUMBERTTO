@@ -1,6 +1,6 @@
 
 <h1 align="center">Jorge Humberto</h1>
-<h3 align="center">Software Specialist</h3>
+<h3 align="center">Software Technician</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
