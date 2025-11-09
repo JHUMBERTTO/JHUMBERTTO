@@ -7,7 +7,7 @@
   <!-- Ts -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
   <!-- Rust --> 
-  <img src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23B40C0C"></img>
+  <img src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23B40C0C" alt="rsut" width="50" height="50"></img>
   <!-- Python -->
-  <img src="https://devicon-website.vercel.app/api/python/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="python" width="50" height="50"></img>
   
