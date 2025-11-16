@@ -11,4 +11,4 @@
   <!-- Python -->
   <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="python" width="50" height="50"></img>
   <!-- C++ -->
-  <img src="https://devicon-website.vercel.app/api/cplusplus/line.svg?color=%23000A93" alt="c++" width="50" height="50"></img>
+  <img src="https://devicon-website.vercel.app/api/cplusplus/plain.svg?color=%23033C9C" alt="c++" width="50" height="50"></img>
